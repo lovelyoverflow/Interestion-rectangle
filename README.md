@@ -1,1 +1,1 @@
-# Interestion-rectangle
+# Intersection-rectangle
